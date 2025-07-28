@@ -1,0 +1,5 @@
+jax 
+jaxlib 
+ott-jax
+matplotlib 
+scikit-image
